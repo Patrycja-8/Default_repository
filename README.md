@@ -1,3 +1,4 @@
 # Comments
 
-File description
+File description.
+File information.
